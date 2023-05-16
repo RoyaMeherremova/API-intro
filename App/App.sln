@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{672B027A-6A76-40D5-9E8C-37567832D5DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{BEE11888-256A-40EA-AF58-BCFD0283888C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{68E3E733-80C7-45EC-9AA4-B5A203EF1DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672B027A-6A76-40D5-9E8C-37567832D5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672B027A-6A76-40D5-9E8C-37567832D5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672B027A-6A76-40D5-9E8C-37567832D5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672B027A-6A76-40D5-9E8C-37567832D5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE11888-256A-40EA-AF58-BCFD0283888C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE11888-256A-40EA-AF58-BCFD0283888C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE11888-256A-40EA-AF58-BCFD0283888C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE11888-256A-40EA-AF58-BCFD0283888C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E3E733-80C7-45EC-9AA4-B5A203EF1DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E3E733-80C7-45EC-9AA4-B5A203EF1DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E3E733-80C7-45EC-9AA4-B5A203EF1DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E3E733-80C7-45EC-9AA4-B5A203EF1DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA39BF3-E515-4950-A66F-CBE595866CCD}
+	EndGlobalSection
+EndGlobal
